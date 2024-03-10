@@ -153,15 +153,15 @@ public class MainActivity2 extends AppCompatActivity {
 
 
 ## OUTPUT:
+![image](https://github.com/lokeshnarayanan/INTENT_GIT/assets/119393019/ebe78e47-34d2-49ba-ab76-cca59e7910f7)
 
 
 ## EXPLICIT:
 
-
-
-
+![image](https://github.com/lokeshnarayanan/INTENT_GIT/assets/119393019/dbb3c687-5415-4b8f-9c58-6143be0b17fc)
 
 ## IMPLICIT:
+![google](https://github.com/lokeshnarayanan/INTENT_GIT/assets/119393019/ca471703-f34f-427f-8a89-7a492a4525fc)
 
 
 
